@@ -1,0 +1,1 @@
+make_flag.py can make you to generate unique flag.
